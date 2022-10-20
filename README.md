@@ -23,4 +23,4 @@ Open to collaborations at Omergal156@gmail.com 📬
 [![My Skills](https://skillicons.dev/icons?i=redis,mongodb,postgres)](https://skillicons.dev)
 
 ### Other skills:
-[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,jest,github)](https://skillicons.dev)

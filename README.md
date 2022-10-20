@@ -1,16 +1,26 @@
 ### Hi there 👋
+ Im Omer Gal 👨  \
+ A 21 years old full stack developer 💻
+ 
+I love exploring the web development world 🌎 \
+I always try to learn and discover new architectures and technologies 
 
-<!--
-**RealOmerGal/RealOmerGal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open to collaborations at Omergal156@gmail.com 📬
 
-Here are some ideas to get you started:
+### Some of my experience:
+#### Programming languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,cs,java,c)](https://skillicons.dev)
+
+#### Front-end:
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,html,css)](https://skillicons.dev)
+
+#### Back-end:
+[![My Skills](https://skillicons.dev/icons?i=express,nestjs,dotnet)](https://skillicons.dev)
+
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,postgres)](https://skillicons.dev)
+
+### Other skills:
+[![My Skills](https://skillicons.dev/icons?i=git,kubernetes,docker,jest)](https://skillicons.dev)
